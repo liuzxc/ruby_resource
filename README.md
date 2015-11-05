@@ -32,7 +32,7 @@ ruby &amp; rails 学习资源汇总
 
 ## 书籍推荐
 
-<img style="float: center;" src="http://img6.douban.com/lpic/s11352335.jpg">
+<img style="float: right;" src="http://img6.douban.com/lpic/s11352335.jpg">
 
 ![Ruby编程语言](http://img6.douban.com/lpic/s11352335.jpg)
 
