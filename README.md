@@ -29,7 +29,7 @@ ruby &amp; rails 学习资源汇总
 * [ruby与多态](Polymorphism and Ruby)
 * [Implementing Lazy Enumerables in Ruby](http://www.sitepoint.com/implementing-lazy-enumerables-in-ruby/)
 * [Rails Mass Assignment](http://code.tutsplus.com/tutorials/mass-assignment-rails-and-you--net-31695)
-*
+
 ## 书籍推荐
 
 ![Ruby编程语言](http://img6.douban.com/lpic/s11352335.jpg)
@@ -44,7 +44,7 @@ Ruby 进阶必读书，强烈推荐！不看此书，不懂ruby！不过一定�
 
 ___
 
-![ruby设计模式](http://img6.douban.com/lpic/s3407353.jpg)
+![ruby设计模式](http://img3.douban.com/lpic/s3407353.jpg)
 
 Ruby 作为一种纯粹的面向对象编程语言，掌握设计模式是非常有必要的。
 
