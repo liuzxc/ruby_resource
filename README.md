@@ -1,6 +1,3 @@
-# ruby_resource
-Ruby &amp; Rails 学习资源汇总
-
 ## Ruby & Rails 学习资源
 
 * [how-to-install-xcode-homebrew-git-rvm-ruby-on-mac](http://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/)
@@ -69,7 +66,7 @@ ___
 
 [Sublime Text](http://www.sublimetext.com/)
 
-写 ruby 代码，我只用 sublime，为什么呢？
+sublime 的优点：
 
 1. 免费
 2. 跨平台，windows, linux, mac 通吃（配置文件和插件包上传到git, 换电脑也不用担心）
