@@ -26,11 +26,13 @@ Ruby &amp; Rails 学习资源汇总
 * [改善 Rails 应用性能的十点建议](http://www.nascenia.com/10-tips-to-boost-up-performance-of-your-ruby-on-rails-application/)
 * [Rails 中的事务](http://markdaggett.com/blog/2011/12/01/transactions-in-rails/)
 * [Rspec 指南](http://blog.davidchelimsky.net/blog/2007/05/14/an-introduction-to-rspec-part-i/)
-* [ruby与多态](Polymorphism and Ruby)
+* [Ruby 与多态](Polymorphism and Ruby)
 * [Implementing Lazy Enumerables in Ruby](http://www.sitepoint.com/implementing-lazy-enumerables-in-ruby/)
 * [Rails Mass Assignment](http://code.tutsplus.com/tutorials/mass-assignment-rails-and-you--net-31695)
 
 ## 书籍推荐
+
+由于 ruby 和 rails 的版本迭代都很快，这就导致很多出版的 ruby 书籍过了几年都严重落伍，所以一定要看要买最新版的。
 
 ![Ruby编程语言](http://img6.douban.com/lpic/s11352335.jpg)
 
@@ -53,3 +55,14 @@ ___
 ![重构（ruby版）](http://img6.douban.com/lpic/s27965182.jpg)
 
 重构是很经典的一本书，原版是根据 Java 写的，ruby 和 Java 有很大的不同，它是很灵活的一门语言，不同的人写出的 ruby 代码差异很大，如果你对遗留代码头疼不已，如果你想你的ruby团队更好的协同工作，如果你想提高你的代码质量，此书必读啊！
+
+## 编辑器推荐
+
+[Sublime Text](http://www.sublimetext.com/)
+
+写 ruby 代码，我只用 sublime，为什么呢？
+
+1. 支持 vim 模式，vim 党平稳过渡
+2. 跨平台，windows, linux, mac 通吃（配置文件和插件包上传到git, 换电脑也不用担心）
+3. 插件丰富，自由配置
+4. 界面干净清爽
