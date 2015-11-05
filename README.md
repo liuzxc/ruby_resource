@@ -76,3 +76,11 @@ ___
 3. 界面干净清爽
 4. 插件丰富，自由配置
 6. 支持 vim 模式，vim 党平稳过渡
+
+## 优秀社区推荐
+
+1. [Ruby China](https://ruby-china.org/)
+
+2. [StackOverFlow](http://stackoverflow.com/)
+
+3. [GitHub](https://github.com)
