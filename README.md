@@ -1,5 +1,5 @@
 # ruby_resource
-ruby &amp; rails 学习资源汇总
+Ruby &amp; Rails 学习资源汇总
 
 ## Ruby & Rails 学习资源
 
@@ -32,11 +32,9 @@ ruby &amp; rails 学习资源汇总
 
 ## 书籍推荐
 
-<img style="float: right;" src="http://img6.douban.com/lpic/s11352335.jpg">
-
 ![Ruby编程语言](http://img6.douban.com/lpic/s11352335.jpg)
 
-Ruby编程语言由 ruby 作者参与撰写，入门必读书籍！
+本书由 ruby 作者参与撰写，入门必读书籍！
 
 ___
 
