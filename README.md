@@ -23,26 +23,32 @@ ruby &amp; rails 学习资源汇总
 
 ## 好文共分享
 
-[改善 Rails 应用性能的十点建议](http://www.nascenia.com/10-tips-to-boost-up-performance-of-your-ruby-on-rails-application/)
-[Rails 中的事务](http://markdaggett.com/blog/2011/12/01/transactions-in-rails/)
-[Rails Mass Assignment](http://code.tutsplus.com/tutorials/mass-assignment-rails-and-you--net-31695)
-[Rspec 指南](http://blog.davidchelimsky.net/blog/2007/05/14/an-introduction-to-rspec-part-i/)
-[ruby与多态](Polymorphism and Ruby)
-[Implementing Lazy Enumerables in Ruby](http://www.sitepoint.com/implementing-lazy-enumerables-in-ruby/)
-
+* [改善 Rails 应用性能的十点建议](http://www.nascenia.com/10-tips-to-boost-up-performance-of-your-ruby-on-rails-application/)
+* [Rails 中的事务](http://markdaggett.com/blog/2011/12/01/transactions-in-rails/)
+* [Rspec 指南](http://blog.davidchelimsky.net/blog/2007/05/14/an-introduction-to-rspec-part-i/)
+* [ruby与多态](Polymorphism and Ruby)
+* [Implementing Lazy Enumerables in Ruby](http://www.sitepoint.com/implementing-lazy-enumerables-in-ruby/)
+* [Rails Mass Assignment](http://code.tutsplus.com/tutorials/mass-assignment-rails-and-you--net-31695)
+*
 ## 书籍推荐
 
 ![Ruby编程语言](http://img6.douban.com/lpic/s11352335.jpg)
 
 Ruby编程语言由 ruby 作者参与撰写，入门必读书籍！
 
+___
+
 ![Ruby元编程](https://img3.doubanio.com/lpic/s28259406.jpg)
 
 Ruby 进阶必读书，强烈推荐！不看此书，不懂ruby！不过一定要买最新版（第二版），第一版使用的 ruby 和 Rails 版本太老了。新手不要直接看这本书，有一定 ruby 基础的看。
 
+___
+
 ![ruby设计模式](http://img6.douban.com/lpic/s3407353.jpg)
 
 Ruby 作为一种纯粹的面向对象编程语言，掌握设计模式是非常有必要的。
+
+___
 
 ![重构（ruby版）](http://img6.douban.com/lpic/s27965182.jpg)
 
