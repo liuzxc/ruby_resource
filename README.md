@@ -79,8 +79,4 @@ ___
 
 ## 优秀社区推荐
 
-1. [Ruby China](https://ruby-china.org/)
-
-2. [StackOverFlow](http://stackoverflow.com/)
-
-3. [GitHub](https://github.com)
+[Ruby China](https://ruby-china.org/)
