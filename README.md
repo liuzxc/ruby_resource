@@ -32,18 +32,18 @@ ruby &amp; rails 学习资源汇总
 
 ## 书籍推荐
 
-![Ruby编程语言][http://img6.douban.com/lpic/s11352335.jpg]
+![Ruby编程语言](http://img6.douban.com/lpic/s11352335.jpg)
 
 Ruby编程语言由 ruby 作者参与撰写，入门必读书籍！
 
-![Ruby元编程][https://img3.doubanio.com/lpic/s28259406.jpg]
+![Ruby元编程](https://img3.doubanio.com/lpic/s28259406.jpg)
 
 Ruby 进阶必读书，强烈推荐！不看此书，不懂ruby！不过一定要买最新版（第二版），第一版使用的 ruby 和 Rails 版本太老了。新手不要直接看这本书，有一定 ruby 基础的看。
 
-![ruby设计模式][http://img6.douban.com/lpic/s3407353.jpg]
+![ruby设计模式](http://img6.douban.com/lpic/s3407353.jpg)
 
 Ruby 作为一种纯粹的面向对象编程语言，掌握设计模式是非常有必要的。
 
-![重构（ruby版）][http://img6.douban.com/lpic/s27965182.jpg]
+![重构（ruby版）](http://img6.douban.com/lpic/s27965182.jpg)
 
 重构是很经典的一本书，原版是根据 Java 写的，ruby 和 Java 有很大的不同，它是很灵活的一门语言，不同的人写出的 ruby 代码差异很大，如果你对遗留代码头疼不已，如果你想你的ruby团队更好的协同工作，如果你想提高你的代码质量，此书必读啊！
