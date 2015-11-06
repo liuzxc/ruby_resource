@@ -10,6 +10,7 @@
 * [Rails Guide 中文版](http://guides.ruby-china.org/)
 * [RailsCast](http://railscasts.com/)
 * [Ruby on Rails Tutorial](https://www.railstutorial.org/book/frontmatter)
+* [Rails 实践](http://rails-practice.com/)
 * [Ruby 正则表达式在线编辑器](http://rubular.com/)
 * [在线 YAML 解析器](Online YAML Parser)
 * [Rspec](http://rspec.info/)
@@ -30,11 +31,13 @@
 * [可伸缩的高性能 Rails 应用程序开发和部署实践](http://www.ibm.com/developerworks/cn/web/1003_yekai_railsarch/)
 * [为什么我们开发的Raptor比Unicorn快4倍，比Puma，Torquebox快2倍](http://ohcoder.com/blog/2014/11/11/raptor-part-1/)
 * [Rails Session 是如何工作的](http://www.justinweiss.com/articles/how-rails-sessions-work//)
+* [机器学习其实比你想的更简单](http://blog.jobbole.com/53546/)
 * [Why You Should Be Excited About Garbage Collection in Ruby 2.0](http://patshaughnessy.net/2012/3/23/why-you-should-be-excited-about-garbage-collection-in-ruby-2-0)
 * [Implementing Lazy Enumerables in Ruby](http://www.sitepoint.com/implementing-lazy-enumerables-in-ruby/)
 * [Rails Mass Assignment](http://code.tutsplus.com/tutorials/mass-assignment-rails-and-you--net-31695)
 * [Intermediate Rails: Understanding Models, Views and Controllers](http://betterexplained.com/articles/intermediate-rails-understanding-models-views-and-controllers/)
 * [A Tour of Rails’ jQuery UJS](https://robots.thoughtbot.com/a-tour-of-rails-jquery-ujs)
+* [Better Hash Injection using each_with_object](http://technology.customink.com/blog/2014/10/14/better-hash-injection-using-each-with-object/)
 
 ## 书籍推荐
 
@@ -48,7 +51,7 @@ ___
 
 ![Ruby元编程](https://img3.doubanio.com/lpic/s28259406.jpg)
 
-Ruby 进阶必读书，强烈推荐！不看此书，不懂ruby！不过一定要买最新版（第二版），第一版使用的 ruby 和 Rails 版本太老了。新手不要直接看这本书，有一定 ruby 基础的看。
+Ruby 进阶必读书，强烈推荐！不过一定要买最新版（第二版），第一版使用的 ruby 和 ails 版本太老了。此书不适合 ruby 新手，需要有一定 ruby 基础。
 
 ___
 
@@ -64,9 +67,9 @@ ___
 
 ## 编辑器推荐
 
-[Sublime Text](http://www.sublimetext.com/)
+![Sublime Text](https://d13yacurqjgara.cloudfront.net/users/10903/screenshots/1027361/sublime.png)
 
-sublime 的优点：
+[Sublime Text](http://www.sublimetext.com/) 的优点:
 
 1. 免费
 2. 跨平台，windows, linux, mac 通吃（配置文件和插件包上传到git, 换电脑也不用担心）
@@ -74,6 +77,21 @@ sublime 的优点：
 4. 插件丰富，自由配置
 6. 支持 vim 模式，vim 党平稳过渡
 
+Sublime 使用指南：
+
+* [A Quick Guide to Sublime Text](A Quick Guide to Sublime Text)
+* [Sublime Text 2 入门及技巧](http://lucifr.com/2011/08/31/sublime-text-2-tricks-and-tips/)
+* [Sublime Text 2 实用快捷键[Mac OS X]](http://lucifr.com/2011/09/10/sublime-text-2-useful-shortcuts/)
+* [The Best Plugins for Sublime Text](http://ipestov.com/the-best-plugins-for-sublime-text/)
+* [Ctags On OSX](http://gmarik.info/blog/2010/10/08/ctags-on-OSX) sublime 本身没有完善的代码跳转功能，需要借助于插件 Ctags
+
 ## 优秀社区推荐
 
 [Ruby China](https://ruby-china.org/)
+
+puts "Guess a number:"
+until gets.chomp.to_i == 5 do
+  puts "guessed wrong, please try again!"
+end
+
+puts "correct"
