@@ -51,7 +51,7 @@ ___
 
 ![Ruby元编程](https://img3.doubanio.com/lpic/s28259406.jpg)
 
-Ruby 进阶必读书，强烈推荐！不过一定要买最新版（第二版），第一版使用的 ruby 和 ails 版本太老了。此书不适合 ruby 新手，需要有一定 ruby 基础。
+Ruby 进阶必读书，强烈推荐！不过一定要买最新版（第二版），第一版使用的 ruby 和 rails 版本太老了。此书不适合 ruby 新手，需要有一定 ruby 基础。
 
 ___
 
@@ -72,7 +72,7 @@ ___
 [Sublime Text](http://www.sublimetext.com/) 的优点:
 
 1. 免费
-2. 跨平台，windows, linux, mac 通吃（配置文件和插件包上传到git, 换电脑也不用担心）
+2. 跨平台，windows，linux，mac 通吃（配置文件和插件包上传到git，换电脑也不用担心）
 3. 界面干净清爽
 4. 插件丰富，自由配置
 6. 支持 vim 模式，vim 党平稳过渡
@@ -83,15 +83,8 @@ Sublime 使用指南：
 * [Sublime Text 2 入门及技巧](http://lucifr.com/2011/08/31/sublime-text-2-tricks-and-tips/)
 * [Sublime Text 2 实用快捷键[Mac OS X]](http://lucifr.com/2011/09/10/sublime-text-2-useful-shortcuts/)
 * [The Best Plugins for Sublime Text](http://ipestov.com/the-best-plugins-for-sublime-text/)
-* [Ctags On OSX](http://gmarik.info/blog/2010/10/08/ctags-on-OSX) sublime 本身没有完善的代码跳转功能，需要借助于插件 Ctags
+* [Ctags On OSX](http://gmarik.info/blog/2010/10/08/ctags-on-OSX) (Sublime 本身没有完善的代码跳转功能，需要借助于插件 Ctags)
 
 ## 优秀社区推荐
 
 [Ruby China](https://ruby-china.org/)
-
-puts "Guess a number:"
-until gets.chomp.to_i == 5 do
-  puts "guessed wrong, please try again!"
-end
-
-puts "correct"
